@@ -1,2 +1,0 @@
-# YEHAW
-Created with CodeSandbox
